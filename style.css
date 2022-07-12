@@ -1,8 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
     margin: 0px;
+
 }
 
 section {
@@ -25,10 +30,30 @@ section {
 
     font-size: 55px;
     line-height: 75px;
+    margin-bottom: 37px;
 }
 
 .header-content p {
 
     font-size: 18px;
     line-height: 28px;
+    text-align: justify;
+    margin-bottom: 37px;
+
+}
+
+.donate-button {
+
+    width: 160px;
+    height: 56px;
+    padding: 16px 12px;
+    color: white;
+    background: #EF233C;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    line-height: 24.2px;
+    font-family: inter;
+    font-weight: 600;
+
 }
