@@ -240,6 +240,12 @@ section {
     margin-bottom: 30px;
 }
 
+.card-content a {
+
+    color: red;
+    font-weight: bold;
+}
+
 .card-flex {
 
     display: flex;
